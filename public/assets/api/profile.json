@@ -1,0 +1,12 @@
+{
+  "firstname": "victor",
+  "lastname": "crest",
+  "age": 26,
+  "country": "london",
+  "photo": "/assets/imgs/image-victor.jpg",
+  "stats": {
+    "followersTotal": 80000,
+    "likesTotal": 803000,
+    "photosTotal": 1400
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "profile-card-component-backend",
+  "version": "1.0.0",
+  "description": "profile card component back-end",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "card",
+    "profile",
+    "component",
+    "angular"
+  ],
+  "author": "ricardo mejias",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
